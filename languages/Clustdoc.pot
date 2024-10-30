@@ -1,0 +1,141 @@
+# Copyright (C) 2024 Clustdoc
+# This file is distributed under the same license as the Clustdoc Client Portal plugin.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Clustdoc Client Portal 2.2.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/plugins/clust-client-portal/\n"
+"POT-Creation-Date: 2024-06-06 14:12+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Domain: clustdoc-client-portal\n"
+"X-Generator: Poedit 3.4.4\n"
+
+#. Plugin Name of the plugin
+msgid "Clustdoc Client Portal"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"A secure online application system for your Wordpress site. Start receiving "
+"client applications easily from your pages."
+msgstr ""
+
+#. Author of the plugin
+msgid "Clustdoc"
+msgstr ""
+
+#: clustdoc-client-portal.php:76
+msgid "Settings"
+msgstr ""
+
+#: clustdoc-client-portal.php:120
+msgid ""
+"No portal were found. Please create at least one template in your Clustdoc "
+"account."
+msgstr ""
+
+#: clustdoc-client-portal.php:121
+msgid "No portal were found."
+msgstr ""
+
+#: clustdoc-client-portal.php:136 clustdoc-client-portal.php:141
+msgid "Oops: It seems like you haven't set up your API Token yet."
+msgstr ""
+
+#: clustdoc-client-portal.php:143 clustdoc-client-portal.php:149
+#: clustdoc-client-portal.php:155
+msgid "Error: No portal were found."
+msgstr ""
+
+#: clustdoc-client-portal.php:147 clustdoc-client-portal.php:153
+msgid ""
+"Oops: It seems like you have entered a wrong API Token. Please check your "
+"API key."
+msgstr ""
+
+#: clustdoc-client-portal.php:160
+msgid "You're connected"
+msgstr ""
+
+#: clustdoc-client-portal.php:63
+msgid "Enter your API Key"
+msgstr ""
+
+#: clustdoc-client-portal.php:64 options.php:138
+msgid "Confirm API key"
+msgstr ""
+
+#: options.php:136
+msgid "Clustdoc Client Portal - Settings page"
+msgstr ""
+
+#: options.php:134
+msgid "Set up your portal and start receiving online applications today"
+msgstr ""
+
+#: options.php:187
+msgid ""
+"Enter below your Clustdoc API Key and validate. Then, go to your Wordpress "
+"page or post to add your portal."
+msgstr ""
+
+#: options.php:163 options.php:168
+msgid "Welcome Back"
+msgstr ""
+
+#: options.php:164
+msgid "Welcome to your configuration area."
+msgstr ""
+
+#: options.php:165 options.php:188
+msgid "Need Help ?"
+msgstr ""
+
+#: options.php:172
+msgid "Logout"
+msgstr ""
+
+#: options.php:185
+msgid "Token configuration"
+msgstr ""
+
+#: options.php:194
+msgid "Insert your Clustdoc portal"
+msgstr ""
+
+#: options.php:196
+msgid ""
+"(Recommended) You are using WP blocks. Go to your post or page and just add "
+"the Clustdoc block"
+msgstr ""
+
+#: options.php:197
+msgid ""
+"You don't use WP blocks. Select a portal and generate the code to add in "
+"your page."
+msgstr ""
+
+#: options.php:198
+msgid "Select your portal :"
+msgstr ""
+
+#: options.php:204
+msgid "Generate Code"
+msgstr ""
+
+#: options.php:238 options.php:263
+msgid "Copy"
+msgstr ""
+
+#: options.php:239
+msgid "Copied"
+msgstr ""
+
+#: options.php:259
+msgid "Code to insert in your pages :"
+msgstr ""
